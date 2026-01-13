@@ -475,7 +475,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <p>© 2025 Rami Khalil. Built with React.</p>
+        <p>© 2025 Rami Khalil.</p>
       </footer>
     </div>
   );
